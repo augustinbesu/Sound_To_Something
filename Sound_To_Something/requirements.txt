@@ -1,0 +1,43 @@
+# Core ML frameworks
+
+# THIS IS WHAT I USED ON MY PC
+# pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
+
+torch
+torchvision
+torchaudio
+tensorflow
+
+# Diffusion models
+diffusers
+transformers
+accelerate
+
+# Audio processing
+librosa
+soundfile
+scipy
+numpy
+
+# Data science
+scikit-learn
+pandas
+matplotlib
+seaborn
+
+# Image/Video processing
+pillow
+imageio
+imageio-ffmpeg
+moviepy==1.0.3
+
+# Web interface
+streamlit
+
+# Utilities
+tqdm
+psutil
+joblib
+
+# Optional optimizations
+bitsandbytes

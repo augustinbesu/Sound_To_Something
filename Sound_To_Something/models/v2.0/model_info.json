@@ -1,0 +1,32 @@
+{
+  "model_name": "v2.0",
+  "training_date": "2025-05-31 09:26:27",
+  "genres": [
+    "blues",
+    "classical",
+    "country",
+    "disco",
+    "hiphop",
+    "jazz",
+    "metal",
+    "pop",
+    "reggae",
+    "rock"
+  ],
+  "sample_rate": 22050,
+  "architecture": "Dense Neural Network",
+  "input_features": "MFCC statistics (mean + std)",
+  "hyperparameters": {
+    "epochs": 200,
+    "batch_size": 16,
+    "learning_rate": 0.002,
+    "early_stopping_patience": 15,
+    "early_stopping_enabled": false,
+    "reduce_lr_patience": 5,
+    "reduce_lr_factor": 0.5,
+    "min_lr": 1e-05,
+    "dropout_rate": 0.3,
+    "validation_split": 0.2
+  },
+  "test_accuracy": 0.755
+}
