@@ -39,7 +39,6 @@ Sound_To_Something/
 │   └── demostracion/            # Demo model
 ├── results/                     # Generated images and videos
 ├── temp/                        # Temporary files
-└── test_songs/                  # Sample audio files for testing
 ```
 
 ## 🚀 Quick Start
