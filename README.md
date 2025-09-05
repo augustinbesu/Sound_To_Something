@@ -1,6 +1,6 @@
 # Sound to Something 🎵
 
-A complete AI-powered application that converts audio into visual art by classifying music genres and generating corresponding images and videos using Stable Diffusion models.
+A pilot AI-powered system that explores converting audio into visual art by classifying music genres and generating corresponding images and videos using Stable Diffusion models.
 
 ## 🌟 Features
 
